@@ -31,3 +31,9 @@
 
  ### This site was built using what we have covered in the lesson, most of the lines of code was written by our teacher mr.Ruslan
  # [Link to see result](https://drive.google.com/file/d/1uZHYCOP9haGb7WnjJvVRVP2jMvunhN4u/view?usp=sharing)
+<img width="1440" alt="Снимок экрана 2023-03-23 в 04 52 23" src="https://user-images.githubusercontent.com/99857663/227056245-3a396325-9a9c-45c4-af15-919815c28fd2.png">
+<img width="1440" alt="Снимок экрана 2023-03-23 в 04 52 27" src="https://user-images.githubusercontent.com/99857663/227056280-f479774b-0a04-43f1-97d4-10a09eb5ec53.png">
+
+
+
+
