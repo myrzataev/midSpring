@@ -37,7 +37,8 @@
  <img width="1440" alt="Снимок экрана 2023-03-24 в 15 53 09" src="https://user-images.githubusercontent.com/99857663/227488689-82284ee3-ed8a-475f-b80c-0f8923f07ff5.png">
 
  
-<img width="1440" alt="Снимок экрана 2023-03-24 в 15 53 18" src="https://user-images.githubusercontent.com/99857663/227489493-25945b23-2361-4dfb-8a9b-4910a3f2e63f.png">
+<img width="1440" alt="Снимок экрана 2023-03-24 в 16 05 21" src="https://user-images.githubusercontent.com/99857663/227491952-99334c9c-b74f-49f7-9e9a-a633203c27d1.png">
+
 
 
 
