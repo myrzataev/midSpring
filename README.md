@@ -43,5 +43,5 @@
 
 
 
-# [Link to see video result](https://drive.google.com/file/d/1uZHYCOP9haGb7WnjJvVRVP2jMvunhN4u/view?usp=sharing)
+
 
